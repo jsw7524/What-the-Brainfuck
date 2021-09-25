@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What the Brainfuck", "What the Brainfuck\What the Brainfuck.csproj", "{0F384597-2E39-452F-AFB6-B02922BB102F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{E409C356-3EA7-4497-9C2D-65C47310E93B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{968E96F9-D45C-4D32-BF67-1FB5F00B920B}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F384597-2E39-452F-AFB6-B02922BB102F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F384597-2E39-452F-AFB6-B02922BB102F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F384597-2E39-452F-AFB6-B02922BB102F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F384597-2E39-452F-AFB6-B02922BB102F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E409C356-3EA7-4497-9C2D-65C47310E93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E409C356-3EA7-4497-9C2D-65C47310E93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E409C356-3EA7-4497-9C2D-65C47310E93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E409C356-3EA7-4497-9C2D-65C47310E93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94A1215-3C1E-4458-B0ED-D54D32F63F4E}
+	EndGlobalSection
+EndGlobal
